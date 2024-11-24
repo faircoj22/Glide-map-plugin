@@ -1,1 +1,0 @@
-export { MyGlidePlugin } from './plugin';
