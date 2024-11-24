@@ -1,0 +1,16 @@
+{
+  "name": "Map Pin Dropper",
+  "description": "Interactive map that allows users to drop a pin and store coordinates",
+  "kind": "column",
+  "author": "Your Name",
+  "params": [
+    {
+      "name": "coordinates",
+      "displayName": "Coordinates",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}
