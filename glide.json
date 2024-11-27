@@ -1,4 +1,4 @@
-
+{
   "name": "Map Pin Dropper",
   "description": "Interactive map that allows users to drop a pin and store coordinates",
   "kind": "column",
